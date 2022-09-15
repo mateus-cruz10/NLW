@@ -67,10 +67,12 @@ section div {
 }
 
 section h2 {
+    text-align: center;
     letter-spacing: -0.47px;
 }
 
 section p {
+    text-align: center;
     letter-spacing: -0.18px;
     color: #A1A1AA;
 }
